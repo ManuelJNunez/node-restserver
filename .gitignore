@@ -3,4 +3,3 @@ server/prueba.js
 server/public.pem
 uploads/productos/*
 uploads/usuarios/*
-config/config.js
